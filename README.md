@@ -103,11 +103,11 @@ This project was built collaboratively as a group project:
 
 | Name | Role |
 |---|---|
-| **Muhammad Danu Setiawan** | Fullstack Developer — appointment booking flow, admin dashboard, email notification system |
-| Kevin Pratama | Fullstack Developer |
-| Mahesa Haryo Pamungkas | Fullstack Developer |
+| **Muhammad Danu Setiawan** | Project Manager |
+| Kevin Pratama | System Analyst |
+| Mahesa Haryo Pamungkas | Developer |
 
-> Note: adjust each member's role above if it doesn't exactly match your division of work.
+
 
 ## 📄 License
 
