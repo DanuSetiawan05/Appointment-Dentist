@@ -101,11 +101,11 @@ A detailed user & admin manual book (in Bahasa Indonesia) covering every screen 
 
 This project was built collaboratively as a group project:
 
-| Name | Role |
-|---|---|
-| **Muhammad Danu Setiawan** | Project Manager |
-| Kevin Pratama | System Analyst |
-| Mahesa Haryo Pamungkas | Developer |
+| Name |
+|---|
+| **Muhammad Danu Setiawan** | 
+| Kevin Pratama | 
+| Mahesa Haryo Pamungkas | 
 
 
 
