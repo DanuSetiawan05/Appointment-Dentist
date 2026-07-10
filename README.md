@@ -1,4 +1,4 @@
-# 🦷 Kanna Dentist — Web-Based Appointment System
+# Kanna Dentist — Web-Based Appointment System
 
 Kanna Dentist is a web-based dental clinic appointment system. Patients can browse clinic information, book appointments online, and send inquiries, while clinic administrators can manage incoming appointments, respond to patient messages, and track appointment status — all from a dedicated admin dashboard.
 
