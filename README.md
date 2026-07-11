@@ -1,10 +1,10 @@
-# Kanna Dentist — Web-Based Appointment System
+# Kanna Dentist - Web Based Appointment System
 
-Kanna Dentist is a web-based dental clinic appointment system. Patients can browse clinic information, book appointments online, and send inquiries, while clinic administrators can manage incoming appointments, respond to patient messages, and track appointment status — all from a dedicated admin dashboard.
+Kanna Dentist is a web-based dental clinic appointment system. Patients can browse clinic information, book appointments online, and send inquiries, while clinic administrators can manage incoming appointments, respond to patient messages, and track appointment status all from a dedicated admin dashboard.
 
 ![Homepage](screenshots/01-homepage.png)
 
-## ✨ Key Features
+## Key Features
 
 ### For Patients (User)
 - Browse clinic profile, vision & mission, services, and available doctors
@@ -22,7 +22,7 @@ Kanna Dentist is a web-based dental clinic appointment system. Patients can brow
 - Track appointment status: `Pending`, `Accepted`, or `Canceled`
 - Automatic email notification is sent to the patient whenever an appointment status changes
 
-## 📸 Screenshots
+## Screenshots
 
 | Homepage | About | Services |
 |---|---|---|
@@ -40,14 +40,14 @@ Kanna Dentist is a web-based dental clinic appointment system. Patients can brow
 
 ![Email Notification](screenshots/10-email-notification.png)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** Laravel (PHP)
 - **Frontend:** Blade Template, HTML, CSS, JavaScript
 - **Database:** MySQL
 - **Email Service:** Laravel Mail
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - PHP >= 8.0
@@ -93,11 +93,11 @@ The app will be available at `http://127.0.0.1:8000`.
 
 To access the admin dashboard, register an admin account at `http://127.0.0.1:8000/register`, then log in at `http://127.0.0.1:8000/login`.
 
-## 📖 Documentation
+## Documentation
 
 A detailed user & admin manual book (in Bahasa Indonesia) covering every screen and feature of this application is available here: [Manual Book](./docs/Kanna_Dentist-Manual_Book.docx)
 
-## 👥 Team
+## Team
 
 This project was built collaboratively as a group project:
 
@@ -109,6 +109,6 @@ This project was built collaboratively as a group project:
 
 
 
-## 📄 License
+## License
 
 This project is open source and available for learning purposes.
