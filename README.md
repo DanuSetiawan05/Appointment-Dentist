@@ -4,6 +4,8 @@ Kanna Dentist is a web-based dental clinic appointment system. Patients can brow
 
 ![Homepage](screenshots/01-homepage.png)
 
+> *This project was completed as a coursework assignment for Smart Web Programming in semester 4, developed as a group project..*
+
 ## Key Features
 
 ### For Patients (User)
